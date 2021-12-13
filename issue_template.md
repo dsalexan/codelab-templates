@@ -19,7 +19,7 @@ Exemplo: Firefox 92.0
 Exemplo: Google Chrome 70.0
 
 ### Como eu posso reproduzir isso?
-_Remova essa dica: Informar os passos que você seguiu para que outros possam reproduzir o comportamento observado. Caso gravações de tela não tenham sido informadas acima, aqui é uma boa hora. Especificações de trechos de código ou seções do banco seriam úteis, mas não são obrigatórias. Pelo amor de todos os deuses, por favor grave a sua tela se possível. Eu não poderia descrever em palavras o quanto isso ajuda na hora de entender como um erro aconteceu.
+_Remova essa dica: Informar os passos que você seguiu para que outros possam reproduzir o comportamento observado. Caso gravações de tela não tenham sido informadas acima, aqui é uma boa hora. Especificações de trechos de código ou seções do banco seriam úteis, mas não são obrigatórias. Pelo amor de todos os deuses, por favor grave a sua tela se possível. Eu não poderia descrever em palavras o quanto isso ajuda na hora de entender como um erro aconteceu._
 
 
 ### Comentários Adicionais
